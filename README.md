@@ -1,7 +1,6 @@
 <!-- Header -->
 <h1 align="center">
- <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80">
- Unity Dev | Security Researcher
+ C# Indie Dev | Security Researcher
 </h1>
 
 <!-- Avatar -->
