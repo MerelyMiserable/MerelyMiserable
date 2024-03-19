@@ -44,7 +44,7 @@
 - [LettuceHub](): Private Mod Hub for Lettuceware Devs
 - [Strayed VR Quest Mod](): Private project with Strayed devs to improve security
 - [Township Puppeteer](): Private Client for A Township Tale
-- [Harmonica](): Old Private Client for Rec Room Quest
+- [Brickverse Content Moderation API](): Content Moderation for Brickverse
 
 <!-- Connect with Me -->
 ## 🌐 Connect with Me
@@ -53,7 +53,7 @@
   <a href="https://twitter.com/MerelyMisery">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://discord.com/invite/X6z36B9rP6">
+  <a href="https://discord.gg/Xbxj65KpSm">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
