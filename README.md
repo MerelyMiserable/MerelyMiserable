@@ -33,10 +33,7 @@
 - [Overdose Legacy](https://github.com/MerelyMiserable/Overdose-Legacy): OLD PPG MOD
 
 <!-- Work History -->
-## 💼 Work History
 
-- **Application Software Engineer** (2024-Present) at RAMPAGE INTERACTIVE
-  - Responsible for work on the Brickverse engine and other small projects
 
 <!-- Private Projects -->
 ## 🔒 Private Projects
