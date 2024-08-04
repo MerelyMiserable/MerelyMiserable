@@ -41,7 +41,6 @@
 - [LettuceHub](): Private Mod Hub for Lettuceware Devs
 - [Strayed VR Quest Mod](): Private project with Strayed devs to improve security
 - [Township Puppeteer](): Private Client for A Township Tale
-- [Brickverse Content Moderation API](): Content Moderation for Brickverse
 
 <!-- Connect with Me -->
 ## 🌐 Connect with Me
