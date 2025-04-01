@@ -49,7 +49,7 @@
   <a href="https://twitter.com/MerelyMisery">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://discord.gg/Xbxj65KpSm">
+  <a href="https://discord.gg/hW9Dqe52ut">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
